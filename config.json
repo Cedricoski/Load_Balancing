@@ -1,7 +1,7 @@
 {
   "root": "D:/",
-  "server": ["\\\\DESKTOP-A8IEQM4/"],
-  "autoimport_dir": "",
+  "server": ["\\\\192.168.1.15/"],
+  "autoImport_dir": "AutoImport",
   "batch_dir": "Depot"
 
 }
